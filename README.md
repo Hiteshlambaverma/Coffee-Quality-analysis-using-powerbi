@@ -52,7 +52,7 @@ Microsoft PowerPoint – Project presentation
 Dataset – Coffee Quality Institute (CQI)
 ## Repository Contents
 Coffee_Quality_Analysis.pptx – Project presentation
- Capstone_project.pbix – Power BI dashboard
+capstone project.pbix – Power BI dashboard
 README.md – Project documentation
 ### Author
 Hitesh Verma
