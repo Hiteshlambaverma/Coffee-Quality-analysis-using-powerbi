@@ -36,16 +36,24 @@ Altitude
 Country & Region
 ## Key Insights
 -All sensory attributes contribute equally to Total Cup Points
+
 -Certain factors like defects and quakers have a strong negative impact
+
 -Moisture percentage and Category 1 defects show similar patterns in both high and low quality coffees, indicating they are not strong determining factors
+
 -Specific countries, regions, and processing methods consistently perform better with fewer defects
+
 -Identifying common categories with low defects and quakers helps define ideal conditions for high-quality coffee
+
 ## Dashboard Highlights
 Comparison of top vs lowest quality categories
+
 Defects and quakers distribution across coffee samples
+
 Best-performing categories with minimal defects
+
 Visual insights to support data-driven decisions in coffee production
-(Dashboard screenshots are included in the repository)
+
 ## Tools & Technologies
 Power BI – Data modelling & dashboard creation
 Microsoft PowerPoint – Project presentation
