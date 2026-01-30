@@ -63,7 +63,7 @@ Coffee_Quality_Analysis.pptx – Project presentation
 capstone project.pbix – Power BI dashboard  
 README.md – Project documentation   
 CQA Overview.mov - Dashboard walk through video(Overview Page)  
-CQA Level2.mov - Dashboard walk through video(Level 2 Analysis and Time based analysis)  
+CQA Level 2.mov - Dashboard walk through video(Level 2 Analysis and Time based analysis)  
 CQA Ai.mov - Dashboard walk through video(Ai Analysis and Decomposition tree)  
 ### Author
 Hitesh Verma  
